@@ -1,0 +1,24 @@
+boardsize 19
+clear_board
+komi 0
+play B r16
+play W d17
+play B q3
+play W p17
+play B c4
+play W q5
+play B q4
+play W p5
+play B p5
+play W p6
+play B o5
+play W o6
+play B n5
+reg_genmove B
+bookshow
+showcriticality
+showterritory
+showraveratioscolor
+featureprobdistribution
+showunprunecolor
+showtreelivegfx
