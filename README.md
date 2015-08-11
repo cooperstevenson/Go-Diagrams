@@ -1,6 +1,6 @@
-[Demo for the impatient](http://www.formationmag.com/vol_1_iss_1/games/seigen_kitani/56). Click on each of the diagram thumbnails to see them in the main viewing area.
+[Demo for the impatient](http://portfolio.cooper.stevenson.name:3000/vol_1_iss_1/games/seigen_kitani/56). Click on each of the diagram thumbnails to see them in the main viewing area.
 
-The goal of this project is to [facilitate communications](http://www.formationmag.com/vol_1_iss_1/editorial/#editorial) between Go experts and readers. To that end I created and modified a series of scripts to create [relationship (heatmap), territory, and markup diagrams](http://www.formationmag.com/vol_1_iss_1/games/seigen_kitani/56) for each move in the game.
+The goal of this project is to [facilitate communications](http://portfolio.cooper.stevenson.name:3000/vol_1_iss_1/editorial/#editorial) between Go experts and readers. To that end I created and modified a series of scripts to create [relationship (heatmap), territory, and markup diagrams](http://portfolio.cooper.stevenson.name:3000/vol_1_iss_1/games/seigen_kitani/56) for each move in the game.
 
 # Dependencies
 
