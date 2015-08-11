@@ -17,8 +17,9 @@ The goal of this project is to [facilitate communications](http://www.formationm
 1. Parse the Oakfoam log file for territory, criticality, SGF information markup, etc. for use as input to the SVG diagrams
 1. Run sgf2svg.py, sgf2svg_color.py, and sgf2svg_territory.py for your markup, criticality, and territory diagrams respectively
 
-#TODO
 
-1. Create move suggestion diagrams -- should not be difficult as log output and sgf2svg framework exits
-1. Streamline repository -- I do not recall some of the workflow specifics as I last authored this project nearly a year ago
+// #TODO
+
+// 1. Create move suggestion diagrams -- should not be difficult as log output and sgf2svg framework exits
+// 1. Streamline repository -- I do not recall some of the workflow specifics as I last authored this project nearly a year ago
 
